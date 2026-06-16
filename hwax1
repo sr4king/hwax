@@ -1,6 +1,6 @@
 script_key="ngOmTBDYTyeALynVfWgYTrZgxxEnJPxB";
 getgenv().GAG2Config = {
-    FPS_CAP = 15,
+    FPS_CAP = 5,
     AUTO_UPDATE_RESTART = true,
 
     BUY_PET = {  -- ["Pet Name"] = Amount
@@ -91,20 +91,21 @@ getgenv().GAG2Config = {
 
     -- Auto Mail
     AUTO_MAIL_USERNAME = {"mrstealyourbrain68"},  -- "Username" (Randomized)
-    AUTO_MAIL_ITEM_NAME = {["Rainbow"] = 99
-            ["Gold"] = 99
-            ["Raccoon"] = 99
-            ["Black Dragon"] = 99
-            ["Dragon's Breath"] = 99
-            ["Ice Serpent"] = 99
-            ["Moon Bloom"] = 99
-            ["Monkey"] = 99
-            ["Unicorn"] = 99
-            ["Golden Dragonfly"] = 99
-            ["Poison Apple"] = 99
-            ["Pomegranate"] = 99
-            ["Poison Ivy"] = 99
-            ["Ghost Pepper"] = 99
+    AUTO_MAIL_ITEM_NAME = {
+            ["Rainbow"] = 99,
+            ["Gold"] = 99,
+            ["Raccoon"] = 99,
+            ["Black Dragon"] = 99,
+            ["Dragon's Breath"] = 99,
+            ["Ice Serpent"] = 99,
+            ["Moon Bloom"] = 99,
+            ["Monkey"] = 99,
+            ["Unicorn"] = 99,
+            ["Golden Dragonfly"] = 99,
+            ["Poison Apple"] = 99,
+            ["Pomegranate"] = 99,
+            ["Poison Ivy"] = 99,
+            ["Ghost Pepper"] = 99,
             ["Venus Fly Trap"] = 99},  -- ["Item Name"] = Amount
     COLLECT_MAIL = true,
 
