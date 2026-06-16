@@ -1,6 +1,6 @@
 script_key="ngOmTBDYTyeALynVfWgYTrZgxxEnJPxB";
 getgenv().GAG2Config = {
-    FPS_CAP = 5,
+    FPS_CAP = 15,
     AUTO_UPDATE_RESTART = true,
 
     BUY_PET = {  -- ["Pet Name"] = Amount
