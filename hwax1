@@ -24,13 +24,13 @@ getgenv().GAG2Config = {
     },
 
     PLANT_SEED = {  -- ["Seed Name"] = Amount
-        ["Carrot"] = 50, 
+        ["Carrot"] = 4, 
         ["Strawberry"] = 4,
         ["Blueberry"] = 4,
-        ["Tulip"] = 50,
+        ["Tulip"] = 4,
         ["Tomato"] = 4,
         ["Apple"] = 4,
-        ["Bamboo"] = 500,
+        ["Bamboo"] = 300,
         ["Corn"] = 4,
         ["Cactus"] = 4,
         ["Pineapple"] = 4,
