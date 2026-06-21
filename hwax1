@@ -136,6 +136,7 @@ getgenv().GAG2Config = {
             ["Monkey"] = 99,
             ["Unicorn"] = 99,
             ["GoldenDragonfly"] = 99,
+            ["Mushroom"] = 99,
             ["Poison Apple"] = 99,
             ["Pomegranate"] = 99,
             ["Poison Ivy"] = 99,
