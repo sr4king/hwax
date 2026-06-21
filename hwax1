@@ -49,10 +49,10 @@ getgenv().GAG2Config = {
     },
 
     PLANT_SEED = {  -- ["Seed Name"] = Amount
-        ["Carrot"] = 5, 
+        ["Carrot"] = 50, 
         ["Strawberry"] = 4,
         ["Blueberry"] = 4,
-        ["Tulip"] = 5,
+        ["Tulip"] = 50,
         ["Tomato"] = 4,
         ["Apple"] = 4,
         ["Bamboo"] = 200,
@@ -120,6 +120,7 @@ getgenv().GAG2Config = {
     BUY_GEAR = {  -- ["Gear Name"] = Amount
         ["Super Watering Can"] = 9999,
         ["Super Sprinkler"] = 9999,
+        ["Invisibility Mushroom"] = 99,
     },  
     BUY_CRATE = {},  -- ["Crate Name"] = Amount
 
